@@ -1,8 +1,8 @@
 # Better Buy Lab Resources
 
-Public resource maps for [Better Buy Lab](https://www.betterbuylab.com) product research, buying guides, category hubs, verification policy, and buyer-fit navigation.
+Public Better Buy Lab resource hub for buying guides, product research, category maps, verification policy, and buyer-fit checklists.
 
-**Contact:** contact@betterbuylab.com
+**Website:** [official Better Buy Lab website](https://www.betterbuylab.com)
 
 > Better Buy Lab is a product research and buying-guide publisher—not a retailer, price tracker, deal feed, warranty provider, manufacturer, or first-party test lab unless a specific page supports that claim. Product details, listings, and availability change; verify on retailer sites.
 
@@ -10,17 +10,15 @@ Public resource maps for [Better Buy Lab](https://www.betterbuylab.com) product 
 
 ## What this repository is
 
-- A **central hub** mapping Better Buy Lab routes, trust pages, and maintainer JSON indexes.
-- **Buyer-fit documentation** for how guides relate without pretending to be a product database.
-- **Structured data** in `data/` for full route coverage with layered linking rules.
+- Central GitHub hub mapping site routes, trust pages, and maintainer JSON indexes.
+- Scoped documentation and JSON maps for maintainers and readers.
+- Contextual links to relevant Better Buy Lab guides only.
 
 ## What this repository is not
 
-- Not a live price or stock tool.
-- Not an affiliate link directory.
-- Not a comprehensive duplicate of every product note in README form—see `data/product-note-map.json`.
-
-Product and retailer details change. Use [Better Buy Lab verification policy](https://www.betterbuylab.com/verification-policy) and [Better Buy Lab affiliate disclosure](https://www.betterbuylab.com/affiliate-disclosure) for commerce boundaries.
+- Not a live shopping catalog, deal list, or affiliate push page.
+- Not a claim of hands-on lab testing unless a linked page explicitly supports it.
+- Not a comprehensive index of every Better Buy Lab URL outside this repo's scope.
 
 ---
 
