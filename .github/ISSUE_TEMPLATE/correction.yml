@@ -1,0 +1,18 @@
+name: Content correction
+description: Suggest a factual or clarity correction (not promotional content)
+title: "Correction: "
+labels:
+  - documentation
+body:
+  - type: input
+    id: file
+    attributes:
+      label: File or section
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is unclear or incorrect?
+    validations:
+      required: true

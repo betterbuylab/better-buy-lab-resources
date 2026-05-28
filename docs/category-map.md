@@ -1,0 +1,17 @@
+# Category map
+
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/tv)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/monitors)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/headphones)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/audio)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/laptops)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/home-theater)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/networking)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/vpn)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/kitchen)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/vacuums)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/robot-vacuums)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/air-quality)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/sleep)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/keyboards)
+- [Better Buy Lab category hubs](https://www.betterbuylab.com/mice)

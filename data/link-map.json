@@ -1,0 +1,210 @@
+{
+  "website": [
+    {
+      "url": "https://www.betterbuylab.com",
+      "anchor": "official Better Buy Lab website",
+      "path": "/"
+    },
+    {
+      "url": "https://www.betterbuylab.com/sitemap",
+      "anchor": "Better Buy Lab buying guides",
+      "path": "/sitemap"
+    },
+    {
+      "url": "https://www.betterbuylab.com/about",
+      "anchor": "Better Buy Lab buying guides",
+      "path": "/about"
+    },
+    {
+      "url": "https://www.betterbuylab.com/methodology",
+      "anchor": "Better Buy Lab methodology",
+      "path": "/methodology"
+    },
+    {
+      "url": "https://www.betterbuylab.com/verification-policy",
+      "anchor": "Better Buy Lab verification policy",
+      "path": "/verification-policy"
+    },
+    {
+      "url": "https://www.betterbuylab.com/affiliate-disclosure",
+      "anchor": "Better Buy Lab affiliate disclosure",
+      "path": "/affiliate-disclosure"
+    },
+    {
+      "url": "https://www.betterbuylab.com/editorial-policy",
+      "anchor": "Better Buy Lab editorial policy",
+      "path": "/editorial-policy"
+    },
+    {
+      "url": "https://www.betterbuylab.com/tv",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/tv"
+    },
+    {
+      "url": "https://www.betterbuylab.com/tv/best-tvs",
+      "anchor": "Better Buy Lab tv guide",
+      "path": "/tv/best-tvs"
+    },
+    {
+      "url": "https://www.betterbuylab.com/tv/best-oled-tvs",
+      "anchor": "Better Buy Lab tv guide",
+      "path": "/tv/best-oled-tvs"
+    },
+    {
+      "url": "https://www.betterbuylab.com/tv/best-gaming-tvs",
+      "anchor": "Better Buy Lab tv guide",
+      "path": "/tv/best-gaming-tvs"
+    },
+    {
+      "url": "https://www.betterbuylab.com/tv/best-65-inch-tvs",
+      "anchor": "Better Buy Lab tv guide",
+      "path": "/tv/best-65-inch-tvs"
+    },
+    {
+      "url": "https://www.betterbuylab.com/tv/best-tv-under-500",
+      "anchor": "Better Buy Lab tv guide",
+      "path": "/tv/best-tv-under-500"
+    },
+    {
+      "url": "https://www.betterbuylab.com/tv/oled-vs-mini-led",
+      "anchor": "Better Buy Lab TV guide",
+      "path": "/tv/oled-vs-mini-led"
+    },
+    {
+      "url": "https://www.betterbuylab.com/monitors",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/monitors"
+    },
+    {
+      "url": "https://www.betterbuylab.com/monitors/best-gaming-monitors",
+      "anchor": "Better Buy Lab monitors guide",
+      "path": "/monitors/best-gaming-monitors"
+    },
+    {
+      "url": "https://www.betterbuylab.com/monitors/best-4k-monitors",
+      "anchor": "Better Buy Lab monitors guide",
+      "path": "/monitors/best-4k-monitors"
+    },
+    {
+      "url": "https://www.betterbuylab.com/monitors/best-budget-gaming-monitors",
+      "anchor": "Better Buy Lab monitors guide",
+      "path": "/monitors/best-budget-gaming-monitors"
+    },
+    {
+      "url": "https://www.betterbuylab.com/headphones",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/headphones"
+    },
+    {
+      "url": "https://www.betterbuylab.com/headphones/best-noise-canceling-headphones",
+      "anchor": "Better Buy Lab headphones guide",
+      "path": "/headphones/best-noise-canceling-headphones"
+    },
+    {
+      "url": "https://www.betterbuylab.com/headphones/best-wireless-earbuds",
+      "anchor": "Better Buy Lab headphones guide",
+      "path": "/headphones/best-wireless-earbuds"
+    },
+    {
+      "url": "https://www.betterbuylab.com/headphones/best-gaming-headsets",
+      "anchor": "Better Buy Lab headphones guide",
+      "path": "/headphones/best-gaming-headsets"
+    },
+    {
+      "url": "https://www.betterbuylab.com/audio",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/audio"
+    },
+    {
+      "url": "https://www.betterbuylab.com/audio/best-soundbars",
+      "anchor": "Better Buy Lab headphones guide",
+      "path": "/audio/best-soundbars"
+    },
+    {
+      "url": "https://www.betterbuylab.com/laptops",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/laptops"
+    },
+    {
+      "url": "https://www.betterbuylab.com/laptops/best-college-laptops",
+      "anchor": "Better Buy Lab laptops guide",
+      "path": "/laptops/best-college-laptops"
+    },
+    {
+      "url": "https://www.betterbuylab.com/laptops/best-budget-laptops",
+      "anchor": "Better Buy Lab laptops guide",
+      "path": "/laptops/best-budget-laptops"
+    },
+    {
+      "url": "https://www.betterbuylab.com/home-theater",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/home-theater"
+    },
+    {
+      "url": "https://www.betterbuylab.com/home-theater/best-projectors",
+      "anchor": "Better Buy Lab home theater guide",
+      "path": "/home-theater/best-projectors"
+    },
+    {
+      "url": "https://www.betterbuylab.com/networking",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/networking"
+    },
+    {
+      "url": "https://www.betterbuylab.com/networking/best-mesh-wifi",
+      "anchor": "Better Buy Lab networking guide",
+      "path": "/networking/best-mesh-wifi"
+    },
+    {
+      "url": "https://www.betterbuylab.com/networking/best-routers-large-home",
+      "anchor": "Better Buy Lab networking guide",
+      "path": "/networking/best-routers-large-home"
+    },
+    {
+      "url": "https://www.betterbuylab.com/vpn",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/vpn"
+    },
+    {
+      "url": "https://www.betterbuylab.com/vpn/best-vpn-streaming",
+      "anchor": "Better Buy Lab networking guide",
+      "path": "/vpn/best-vpn-streaming"
+    },
+    {
+      "url": "https://www.betterbuylab.com/vpn/best-cheap-vpn",
+      "anchor": "Better Buy Lab networking guide",
+      "path": "/vpn/best-cheap-vpn"
+    },
+    {
+      "url": "https://www.betterbuylab.com/kitchen",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/kitchen"
+    },
+    {
+      "url": "https://www.betterbuylab.com/kitchen/best-air-fryers",
+      "anchor": "Better Buy Lab kitchen guide",
+      "path": "/kitchen/best-air-fryers"
+    },
+    {
+      "url": "https://www.betterbuylab.com/kitchen/best-toaster-oven-air-fryer",
+      "anchor": "Better Buy Lab kitchen guide",
+      "path": "/kitchen/best-toaster-oven-air-fryer"
+    },
+    {
+      "url": "https://www.betterbuylab.com/kitchen/best-blenders-smoothies",
+      "anchor": "Better Buy Lab kitchen guide",
+      "path": "/kitchen/best-blenders-smoothies"
+    },
+    {
+      "url": "https://www.betterbuylab.com/vacuums",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/vacuums"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/betterbuylab/better-buy-lab-resources",
+      "anchor": "Better Buy Lab buying guide map"
+    }
+  ]
+}

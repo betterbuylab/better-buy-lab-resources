@@ -1,0 +1,46 @@
+{
+  "tv": {
+    "hub": "/tv",
+    "repo": "tv-buying-guide-resource-map"
+  },
+  "monitors": {
+    "hub": "/monitors",
+    "repo": "monitor-desk-buying-resource-map"
+  },
+  "headphones": {
+    "hub": "/headphones",
+    "repo": "headphone-audio-buying-resource-map"
+  },
+  "laptops": {
+    "hub": "/laptops",
+    "repo": "laptop-buying-guide-resource-map"
+  },
+  "home-theater": {
+    "hub": "/home-theater",
+    "repo": "home-theater-projector-resource-map"
+  },
+  "networking": {
+    "hub": "/networking",
+    "repo": "networking-vpn-resource-map"
+  },
+  "kitchen": {
+    "hub": "/kitchen",
+    "repo": "kitchen-countertop-buying-resource-map"
+  },
+  "vacuums": {
+    "hub": "/vacuums",
+    "repo": "vacuum-cleaning-resource-map"
+  },
+  "air-quality": {
+    "hub": "/air-quality",
+    "repo": "air-quality-buying-resource-map"
+  },
+  "sleep": {
+    "hub": "/sleep",
+    "repo": "sleep-mattress-resource-map"
+  },
+  "keyboards": {
+    "hub": "/keyboards",
+    "repo": "keyboard-mouse-desk-resource-map"
+  }
+}

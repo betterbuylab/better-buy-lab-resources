@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Best Tvs",
+    "path": "/tv/best-tvs",
+    "url": "https://www.betterbuylab.com/tv/best-tvs",
+    "category": "tv",
+    "repo": "tv-buying-guide-resource-map"
+  },
+  {
+    "title": "Best OLED Tvs",
+    "path": "/tv/best-oled-tvs",
+    "url": "https://www.betterbuylab.com/tv/best-oled-tvs",
+    "category": "tv",
+    "repo": "tv-buying-guide-resource-map"
+  },
+  {
+    "title": "Best Gaming Tvs",
+    "path": "/tv/best-gaming-tvs",
+    "url": "https://www.betterbuylab.com/tv/best-gaming-tvs",
+    "category": "tv",
+    "repo": "tv-buying-guide-resource-map"
+  },
+  {
+    "title": "Best 65 Inch Tvs",
+    "path": "/tv/best-65-inch-tvs",
+    "url": "https://www.betterbuylab.com/tv/best-65-inch-tvs",
+    "category": "tv",
+    "repo": "tv-buying-guide-resource-map"
+  },
+  {
+    "title": "Best TV Under 500",
+    "path": "/tv/best-tv-under-500",
+    "url": "https://www.betterbuylab.com/tv/best-tv-under-500",
+    "category": "tv",
+    "repo": "tv-buying-guide-resource-map"
+  },
+  {
+    "title": "Best Gaming Monitors",
+    "path": "/monitors/best-gaming-monitors",
+    "url": "https://www.betterbuylab.com/monitors/best-gaming-monitors",
+    "category": "monitors",
+    "repo": "monitor-desk-buying-resource-map"
+  },
+  {
+    "title": "Best 4K Monitors",
+    "path": "/monitors/best-4k-monitors",
+    "url": "https://www.betterbuylab.com/monitors/best-4k-monitors",
+    "category": "monitors",
+    "repo": "monitor-desk-buying-resource-map"
+  },
+  {
+    "title": "Best Budget Gaming Monitors",
+    "path": "/monitors/best-budget-gaming-monitors",
+    "url": "https://www.betterbuylab.com/monitors/best-budget-gaming-monitors",
+    "category": "monitors",
+    "repo": "monitor-desk-buying-resource-map"
+  },
+  {
+    "title": "Best Noise Canceling Headphones",
+    "path": "/headphones/best-noise-canceling-headphones",
+    "url": "https://www.betterbuylab.com/headphones/best-noise-canceling-headphones",
+    "category": "headphones",
+    "repo": "headphone-audio-buying-resource-map"
+  },
+  {
+    "title": "Best Wireless Earbuds",
+    "path": "/headphones/best-wireless-earbuds",
+    "url": "https://www.betterbuylab.com/headphones/best-wireless-earbuds",
+    "category": "headphones",
+    "repo": "headphone-audio-buying-resource-map"
+  },
+  {
+    "title": "Best Gaming Headsets",
+    "path": "/headphones/best-gaming-headsets",
+    "url": "https://www.betterbuylab.com/headphones/best-gaming-headsets",
+    "category": "headphones",
+    "repo": "headphone-audio-buying-resource-map"
+  },
+  {
+    "title": "Best Soundbars",
+    "path": "/audio/best-soundbars",
+    "url": "https://www.betterbuylab.com/audio/best-soundbars",
+    "category": "headphones",
+    "repo": "headphone-audio-buying-resource-map"
+  },
+  {
+    "title": "Best College Laptops",
+    "path": "/laptops/best-college-laptops",
+    "url": "https://www.betterbuylab.com/laptops/best-college-laptops",
+    "category": "laptops",
+    "repo": "laptop-buying-guide-resource-map"
+  },
+  {
+    "title": "Best Budget Laptops",
+    "path": "/laptops/best-budget-laptops",
+    "url": "https://www.betterbuylab.com/laptops/best-budget-laptops",
+    "category": "laptops",
+    "repo": "laptop-buying-guide-resource-map"
+  },
+  {
+    "title": "Best Projectors",
+    "path": "/home-theater/best-projectors",
+    "url": "https://www.betterbuylab.com/home-theater/best-projectors",
+    "category": "home-theater",
+    "repo": "home-theater-projector-resource-map"
+  },
+  {
+    "title": "Best Mesh Wi-Fi",
+    "path": "/networking/best-mesh-wifi",
+    "url": "https://www.betterbuylab.com/networking/best-mesh-wifi",
+    "category": "networking",
+    "repo": "networking-vpn-resource-map"
+  },
+  {
+    "title": "Best Routers Large Home",
+    "path": "/networking/best-routers-large-home",
+    "url": "https://www.betterbuylab.com/networking/best-routers-large-home",
+    "category": "networking",
+    "repo": "networking-vpn-resource-map"
+  },
+  {
+    "title": "Best VPN Streaming",
+    "path": "/vpn/best-vpn-streaming",
+    "url": "https://www.betterbuylab.com/vpn/best-vpn-streaming",
+    "category": "networking",
+    "repo": "networking-vpn-resource-map"
+  },
+  {
+    "title": "Best Cheap VPN",
+    "path": "/vpn/best-cheap-vpn",
+    "url": "https://www.betterbuylab.com/vpn/best-cheap-vpn",
+    "category": "networking",
+    "repo": "networking-vpn-resource-map"
+  },
+  {
+    "title": "Best Air Fryers",
+    "path": "/kitchen/best-air-fryers",
+    "url": "https://www.betterbuylab.com/kitchen/best-air-fryers",
+    "category": "kitchen",
+    "repo": "kitchen-countertop-buying-resource-map"
+  },
+  {
+    "title": "Best Toaster Oven Air Fryer",
+    "path": "/kitchen/best-toaster-oven-air-fryer",
+    "url": "https://www.betterbuylab.com/kitchen/best-toaster-oven-air-fryer",
+    "category": "kitchen",
+    "repo": "kitchen-countertop-buying-resource-map"
+  },
+  {
+    "title": "Best Blenders Smoothies",
+    "path": "/kitchen/best-blenders-smoothies",
+    "url": "https://www.betterbuylab.com/kitchen/best-blenders-smoothies",
+    "category": "kitchen",
+    "repo": "kitchen-countertop-buying-resource-map"
+  },
+  {
+    "title": "Best Cordless Vacuums",
+    "path": "/vacuums/best-cordless-vacuums",
+    "url": "https://www.betterbuylab.com/vacuums/best-cordless-vacuums",
+    "category": "vacuums",
+    "repo": "vacuum-cleaning-resource-map"
+  },
+  {
+    "title": "Best Robot Vacuum Pet Hair",
+    "path": "/robot-vacuums/best-robot-vacuum-pet-hair",
+    "url": "https://www.betterbuylab.com/robot-vacuums/best-robot-vacuum-pet-hair",
+    "category": "vacuums",
+    "repo": "vacuum-cleaning-resource-map"
+  },
+  {
+    "title": "Best Air Purifiers Allergies",
+    "path": "/air-quality/best-air-purifiers-allergies",
+    "url": "https://www.betterbuylab.com/air-quality/best-air-purifiers-allergies",
+    "category": "air-quality",
+    "repo": "air-quality-buying-resource-map"
+  },
+  {
+    "title": "Best Dehumidifiers Basement",
+    "path": "/air-quality/best-dehumidifiers-basement",
+    "url": "https://www.betterbuylab.com/air-quality/best-dehumidifiers-basement",
+    "category": "air-quality",
+    "repo": "air-quality-buying-resource-map"
+  },
+  {
+    "title": "Best Mattress Side Sleepers",
+    "path": "/sleep/best-mattress-side-sleepers",
+    "url": "https://www.betterbuylab.com/sleep/best-mattress-side-sleepers",
+    "category": "sleep",
+    "repo": "sleep-mattress-resource-map"
+  },
+  {
+    "title": "Best Cooling Mattress",
+    "path": "/sleep/best-cooling-mattress",
+    "url": "https://www.betterbuylab.com/sleep/best-cooling-mattress",
+    "category": "sleep",
+    "repo": "sleep-mattress-resource-map"
+  },
+  {
+    "title": "Best Mechanical Keyboards",
+    "path": "/keyboards/best-mechanical-keyboards",
+    "url": "https://www.betterbuylab.com/keyboards/best-mechanical-keyboards",
+    "category": "keyboards",
+    "repo": "keyboard-mouse-desk-resource-map"
+  },
+  {
+    "title": "Best Wireless Gaming Mouse",
+    "path": "/mice/best-wireless-gaming-mouse",
+    "url": "https://www.betterbuylab.com/mice/best-wireless-gaming-mouse",
+    "category": "keyboards",
+    "repo": "keyboard-mouse-desk-resource-map"
+  }
+]

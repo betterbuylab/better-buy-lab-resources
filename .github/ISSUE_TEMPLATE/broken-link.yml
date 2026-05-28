@@ -1,0 +1,22 @@
+name: Broken link report
+description: Report a broken or outdated Better Buy Lab link in this repository
+title: "Broken link: "
+labels:
+  - bug
+body:
+  - type: input
+    id: broken_url
+    attributes:
+      label: Broken link URL
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: File or README section
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes

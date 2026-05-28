@@ -1,0 +1,27 @@
+name: Route update
+description: Request an update when Better Buy Lab adds or changes a public route
+title: "Route update: "
+labels:
+  - documentation
+body:
+  - type: input
+    id: path
+    attributes:
+      label: Site path (example /tv/best-tvs)
+    validations:
+      required: true
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: Change type
+      options:
+        - new route
+        - renamed route
+        - removed route
+        - commerce status change
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes

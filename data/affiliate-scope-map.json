@@ -1,0 +1,3158 @@
+[
+  {
+    "path": "/",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Official homepage; org profile entry point."
+  },
+  {
+    "path": "/sitemap",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Human-readable site map."
+  },
+  {
+    "path": "/about",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "About page; editorial entity context."
+  },
+  {
+    "path": "/methodology",
+    "affiliateStatus": "commerce-free",
+    "source": "manual-review",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Buyer-fit methodology."
+  },
+  {
+    "path": "/verification-policy",
+    "affiliateStatus": "commerce-free",
+    "source": "manual-review",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Shopping verification gate."
+  },
+  {
+    "path": "/affiliate-disclosure",
+    "affiliateStatus": "commerce-free",
+    "source": "manual-review",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Amazon Associates scope and disclosure."
+  },
+  {
+    "path": "/editorial-policy",
+    "affiliateStatus": "commerce-free",
+    "source": "manual-review",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Editorial update rules."
+  },
+  {
+    "path": "/tv",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "TV category hub."
+  },
+  {
+    "path": "/tv/best-tvs",
+    "affiliateStatus": "approved",
+    "source": "public-disclosure",
+    "allowedElements": [
+      "amazon-pdp-links",
+      "affiliate-disclosure-text",
+      "verified-product-modules"
+    ],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "star-aggregates",
+      "offer-schema"
+    ],
+    "requiredDisclosure": "As an Amazon Associate I earn from qualifying purchases.",
+    "notes": "Pilot affiliate route per public disclosure."
+  },
+  {
+    "path": "/tv/best-oled-tvs",
+    "affiliateStatus": "approved",
+    "source": "public-disclosure",
+    "allowedElements": [
+      "amazon-pdp-links",
+      "affiliate-disclosure-text",
+      "verified-product-modules"
+    ],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "star-aggregates",
+      "offer-schema"
+    ],
+    "requiredDisclosure": "As an Amazon Associate I earn from qualifying purchases.",
+    "notes": "Pilot affiliate route per public disclosure."
+  },
+  {
+    "path": "/tv/best-gaming-tvs",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Commerce-free until manifest expands."
+  },
+  {
+    "path": "/tv/best-65-inch-tvs",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/tv/best-tv-under-500",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/tv/oled-vs-mini-led",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Panel technology explainer."
+  },
+  {
+    "path": "/monitors",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/monitors/best-gaming-monitors",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/monitors/best-4k-monitors",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/monitors/best-budget-gaming-monitors",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/headphones",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/headphones/best-noise-canceling-headphones",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/headphones/best-wireless-earbuds",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/headphones/best-gaming-headsets",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/audio",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Soundbar hub under audio cluster."
+  },
+  {
+    "path": "/audio/best-soundbars",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/laptops",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/laptops/best-college-laptops",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/laptops/best-budget-laptops",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/home-theater",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/home-theater/best-projectors",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/networking",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/networking/best-mesh-wifi",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/networking/best-routers-large-home",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/vpn",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/vpn/best-vpn-streaming",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/vpn/best-cheap-vpn",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/kitchen",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/kitchen/best-air-fryers",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/kitchen/best-toaster-oven-air-fryer",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/kitchen/best-blenders-smoothies",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/vacuums",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/vacuums/best-cordless-vacuums",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/robot-vacuums",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/robot-vacuums/best-robot-vacuum-pet-hair",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/air-quality",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/air-quality/best-air-purifiers-allergies",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/air-quality/best-dehumidifiers-basement",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Include moisture-source disclaimers."
+  },
+  {
+    "path": "/sleep",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/sleep/best-mattress-side-sleepers",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/sleep/best-cooling-mattress",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/keyboards",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/keyboards/best-mechanical-keyboards",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/mice",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/mice/best-wireless-gaming-mouse",
+    "affiliateStatus": "commerce-free",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": ""
+  },
+  {
+    "path": "/compare/samsung-s95f-vs-samsung-s90f",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Comparison pages stay commerce-anchor-free per disclosure."
+  },
+  {
+    "path": "/reviews/acer-aspire-3-15",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/acer-nitro-xv275k-p5biipruzx",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/acer-swift-go-14-2024",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/allswell-hybrid",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/anker-soundcore-p31i",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/anker-soundcore-space-a40",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/anker-soundcore-space-q45",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/aoc-q27g3xmn",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/aoc-q27g40xmn",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/apple-airpods-max-2",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/apple-airpods-pro-3",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/apple-macbook-air-13-m4-2025",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/apple-macbook-air-15-m4-2025",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/astro-a50-x",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-rog-swift-oled-pg27ucdm",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-rog-zephyrus-g14",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-tuf-gaming-a16-advantage-edition",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-vivobook-16-m1605",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-zenbook-a14-ux3407",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-zenwifi-bq16-pro",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-zenwifi-et9",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/audeze-maxwell-2",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/beautiful-6qt-digital",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/benq-th671st",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/black-decker-quiet-blender-with-cyclone-glass-jar",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/boring-hybrid",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/bose-quietcomfort-ultra-headphones-2nd-gen",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/braun-triforce-power-pro-jb9041bk",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/breville-smart-oven-air-fryer-compact",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/breville-smart-oven-air-fryer-pro-bov900bss",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/brooklyn-bedding-signature-hybrid",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/casper-snow",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/chefman-obliterator",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/corsi-rosenthal-box",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/cosori-turboblaze",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/coway-airmega-200m",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/cuisinart-air-fryer-toa-70",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/cyberghost",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-alienware-aw2725df",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-alienware-aw2725dm",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-alienware-aw2725q",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-alienware-aw3225dm",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-alienware-aw3425dwm",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-s2725qc",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-u2725qe",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dreo-chefmaker",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dyson-v12-detect-slim",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dyson-v15-detect",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/eero-6",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/eero-max-7",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/eufy-e20",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/expressvpn",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ge-adhl35la",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ge-apyr50lc",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/helix-midnight-luxe-2025",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-ax5140q-qx5140q",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-m2-pro",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-px3-pro",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-qd6qf-65-inch",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-qd6qf",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-u65qf",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hyperx-cloud-alpha-wireless",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/irobot-roomba-max-705",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/jbl-bar-1000mk2",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/keychron-q5-max-q-max-series",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/keychron-v1-ultra-8k",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/keychron-v5-max-v-max-series",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/koorui-s2741lm",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lemokey-p1-he",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lenovo-chromebook-duet-5",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/levoit-core-200s",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/levoit-core-600s",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-24gs65f-b",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-27gx790b-b",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-b5-oled",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-c5-oled",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-g6-65-inch",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-g6-oled",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/logitech-g-pro-x-superlight-2",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/logitech-g-pro-x2-superstrike",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/logitech-g305-lightspeed",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/logitech-g502-x-plus",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/logitech-g715",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/mchose-l7-pro",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/microsoft-surface-laptop-7-15-inch",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/midea-mad35s1qwt",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/mila-air-3",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/mova-p10-pro-ultra",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/mova-p50-pro-ultra",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/mullvad",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nakamichi-shockwafe-wireless",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nexigo-pj40-pro",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ninja-flip-sp151",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ninja-foodi-dt201",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ninja-foodi-dz071",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ninja-foodi-dz550",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ninja-pro-af141",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nordvpn",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nothing-ear",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nutribullet-triple-prep-system",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nuwave-oxypure",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/private-internet-access",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/probreeze-pb-03",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/proton-vpn",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/purple-mattress",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/purple-restoreplus-hybrid",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/razer-blackshark-v3-pro",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/razer-naga-v2-pro",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/razer-pro-type-ultra",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/razer-viper-v3-pro",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/roborock-s8-maxv-ultra",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/saatva-latex-hybrid",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-bespoke-ai-jet-ultra",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-galaxy-book4",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-galaxy-buds4-pro",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-hw-q990f",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-s90f-oled",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-s95f-65-inch",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-s95f-oled",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sennheiser-hd-560s-mic",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sennheiser-hdb-630",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/shark-stratos-cordless-iz862h",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/silk-and-snow-mattress",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sonos-arc-ultra",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sonos-beam-gen-2",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sony-bravia-8-oled",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sony-wf-1000xm6",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sony-wh-1000xm4",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sony-wh-1000xm6",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/steelseries-arctis-nova-7-wireless",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/surfshark-vpn",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-55qm6k",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm5k-65-inch",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm6k-65-inch",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm6k",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm7k-65-inch",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm7k",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm8k-65-inch",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm8k",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-s551g",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/technics-eah-az100",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tineco-pure-one-s11",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tp-link-archer-be550",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tp-link-deco-be63",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tp-link-deco-xe5300-xe75",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tuft-and-needle-mint",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/typhur-sync-oven",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/valerion-visionmaster-max",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/vitamix-explorian-e310",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/vitamix-propel-510",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/waykar-pd160b",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/windscribe",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/wyze-cordless-vacuum-s",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/wyze-robot-vacuum",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/xgimi-horizon-20-max",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/xgimi-horizon-20",
+    "affiliateStatus": "not-approved",
+    "source": "public-disclosure",
+    "allowedElements": [],
+    "disallowedElements": [
+      "live-prices",
+      "stock-modules",
+      "hosted-shopping-images",
+      "offer-schema",
+      "star-aggregates"
+    ],
+    "requiredDisclosure": "",
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  }
+]

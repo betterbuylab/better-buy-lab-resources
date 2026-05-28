@@ -1,0 +1,36 @@
+{
+  "repoName": "better-buy-lab-resources",
+  "description": "Public Better Buy Lab resource maps for product research, buying guides, category hubs, verification policy, and buyer-fit checklists.",
+  "homepage": "https://www.betterbuylab.com",
+  "topics": [
+    "product-research",
+    "buying-guides",
+    "consumer-tech",
+    "shopping-research",
+    "buyer-guides",
+    "product-comparison",
+    "affiliate-disclosure",
+    "editorial-policy",
+    "betterbuylab"
+  ],
+  "visibility": "public",
+  "pinnedRecommendation": true,
+  "primaryWebsitePages": [
+    "/",
+    "/sitemap"
+  ],
+  "siblingRepos": [
+    "tv-buying-guide-resource-map",
+    "monitor-desk-buying-resource-map",
+    "headphone-audio-buying-resource-map",
+    "laptop-buying-guide-resource-map",
+    "home-theater-projector-resource-map",
+    "networking-vpn-resource-map",
+    "kitchen-countertop-buying-resource-map",
+    "vacuum-cleaning-resource-map",
+    "air-quality-buying-resource-map",
+    "sleep-mattress-resource-map",
+    "keyboard-mouse-desk-resource-map"
+  ],
+  "complianceNotes": "Hub README avoids price/stock/deal claims."
+}

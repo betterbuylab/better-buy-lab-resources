@@ -1,0 +1,2942 @@
+[
+  {
+    "path": "/",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Official homepage; org profile entry point."
+  },
+  {
+    "path": "/sitemap",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Human-readable site map."
+  },
+  {
+    "path": "/about",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "About page; editorial entity context."
+  },
+  {
+    "path": "/methodology",
+    "verificationStatus": "policy",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Buyer-fit methodology."
+  },
+  {
+    "path": "/verification-policy",
+    "verificationStatus": "policy",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Shopping verification gate."
+  },
+  {
+    "path": "/affiliate-disclosure",
+    "verificationStatus": "policy",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Amazon Associates scope and disclosure."
+  },
+  {
+    "path": "/editorial-policy",
+    "verificationStatus": "policy",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Editorial update rules."
+  },
+  {
+    "path": "/tv",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "TV category hub."
+  },
+  {
+    "path": "/tv/best-tvs",
+    "verificationStatus": "verified-for-shopping",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Pilot affiliate route per public disclosure."
+  },
+  {
+    "path": "/tv/best-oled-tvs",
+    "verificationStatus": "verified-for-shopping",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Pilot affiliate route per public disclosure."
+  },
+  {
+    "path": "/tv/best-gaming-tvs",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Commerce-free until manifest expands."
+  },
+  {
+    "path": "/tv/best-65-inch-tvs",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/tv/best-tv-under-500",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/tv/oled-vs-mini-led",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Panel technology explainer."
+  },
+  {
+    "path": "/monitors",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/monitors/best-gaming-monitors",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/monitors/best-4k-monitors",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/monitors/best-budget-gaming-monitors",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/headphones",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/headphones/best-noise-canceling-headphones",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/headphones/best-wireless-earbuds",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/headphones/best-gaming-headsets",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/audio",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Soundbar hub under audio cluster."
+  },
+  {
+    "path": "/audio/best-soundbars",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/laptops",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/laptops/best-college-laptops",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/laptops/best-budget-laptops",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/home-theater",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/home-theater/best-projectors",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/networking",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/networking/best-mesh-wifi",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/networking/best-routers-large-home",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/vpn",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/vpn/best-vpn-streaming",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/vpn/best-cheap-vpn",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/kitchen",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/kitchen/best-air-fryers",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/kitchen/best-toaster-oven-air-fryer",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/kitchen/best-blenders-smoothies",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/vacuums",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/vacuums/best-cordless-vacuums",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/robot-vacuums",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/robot-vacuums/best-robot-vacuum-pet-hair",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/air-quality",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/air-quality/best-air-purifiers-allergies",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/air-quality/best-dehumidifiers-basement",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Include moisture-source disclaimers."
+  },
+  {
+    "path": "/sleep",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/sleep/best-mattress-side-sleepers",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/sleep/best-cooling-mattress",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/keyboards",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/keyboards/best-mechanical-keyboards",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/mice",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/mice/best-wireless-gaming-mouse",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": ""
+  },
+  {
+    "path": "/compare/samsung-s95f-vs-samsung-s90f",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Comparison pages stay commerce-anchor-free per disclosure."
+  },
+  {
+    "path": "/reviews/acer-aspire-3-15",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/acer-nitro-xv275k-p5biipruzx",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/acer-swift-go-14-2024",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/allswell-hybrid",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/anker-soundcore-p31i",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/anker-soundcore-space-a40",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/anker-soundcore-space-q45",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/aoc-q27g3xmn",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/aoc-q27g40xmn",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/apple-airpods-max-2",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/apple-airpods-pro-3",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/apple-macbook-air-13-m4-2025",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/apple-macbook-air-15-m4-2025",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/astro-a50-x",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-rog-swift-oled-pg27ucdm",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-rog-zephyrus-g14",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-tuf-gaming-a16-advantage-edition",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-vivobook-16-m1605",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-zenbook-a14-ux3407",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-zenwifi-bq16-pro",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/asus-zenwifi-et9",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/audeze-maxwell-2",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/beautiful-6qt-digital",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/benq-th671st",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/black-decker-quiet-blender-with-cyclone-glass-jar",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/boring-hybrid",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/bose-quietcomfort-ultra-headphones-2nd-gen",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/braun-triforce-power-pro-jb9041bk",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/breville-smart-oven-air-fryer-compact",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/breville-smart-oven-air-fryer-pro-bov900bss",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/brooklyn-bedding-signature-hybrid",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/casper-snow",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/chefman-obliterator",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/corsi-rosenthal-box",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/cosori-turboblaze",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/coway-airmega-200m",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/cuisinart-air-fryer-toa-70",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/cyberghost",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-alienware-aw2725df",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-alienware-aw2725dm",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-alienware-aw2725q",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-alienware-aw3225dm",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-alienware-aw3425dwm",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-s2725qc",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dell-u2725qe",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dreo-chefmaker",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dyson-v12-detect-slim",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/dyson-v15-detect",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/eero-6",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/eero-max-7",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/eufy-e20",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/expressvpn",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ge-adhl35la",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ge-apyr50lc",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/helix-midnight-luxe-2025",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-ax5140q-qx5140q",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-m2-pro",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-px3-pro",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-qd6qf-65-inch",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-qd6qf",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hisense-u65qf",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/hyperx-cloud-alpha-wireless",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/irobot-roomba-max-705",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/jbl-bar-1000mk2",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/keychron-q5-max-q-max-series",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/keychron-v1-ultra-8k",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/keychron-v5-max-v-max-series",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/koorui-s2741lm",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lemokey-p1-he",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lenovo-chromebook-duet-5",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/levoit-core-200s",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/levoit-core-600s",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-24gs65f-b",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-27gx790b-b",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-b5-oled",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-c5-oled",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-g6-65-inch",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/lg-g6-oled",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/logitech-g-pro-x-superlight-2",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/logitech-g-pro-x2-superstrike",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/logitech-g305-lightspeed",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/logitech-g502-x-plus",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/logitech-g715",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/mchose-l7-pro",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/microsoft-surface-laptop-7-15-inch",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/midea-mad35s1qwt",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/mila-air-3",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/mova-p10-pro-ultra",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/mova-p50-pro-ultra",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/mullvad",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nakamichi-shockwafe-wireless",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nexigo-pj40-pro",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ninja-flip-sp151",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ninja-foodi-dt201",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ninja-foodi-dz071",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ninja-foodi-dz550",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/ninja-pro-af141",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nordvpn",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nothing-ear",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nutribullet-triple-prep-system",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/nuwave-oxypure",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/private-internet-access",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/probreeze-pb-03",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/proton-vpn",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/purple-mattress",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/purple-restoreplus-hybrid",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/razer-blackshark-v3-pro",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/razer-naga-v2-pro",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/razer-pro-type-ultra",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/razer-viper-v3-pro",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/roborock-s8-maxv-ultra",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/saatva-latex-hybrid",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-bespoke-ai-jet-ultra",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-galaxy-book4",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-galaxy-buds4-pro",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-hw-q990f",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-s90f-oled",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-s95f-65-inch",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/samsung-s95f-oled",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sennheiser-hd-560s-mic",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sennheiser-hdb-630",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/shark-stratos-cordless-iz862h",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/silk-and-snow-mattress",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sonos-arc-ultra",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sonos-beam-gen-2",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sony-bravia-8-oled",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sony-wf-1000xm6",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sony-wh-1000xm4",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/sony-wh-1000xm6",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/steelseries-arctis-nova-7-wireless",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/surfshark-vpn",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-55qm6k",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm5k-65-inch",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm6k-65-inch",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm6k",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm7k-65-inch",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm7k",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm8k-65-inch",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-qm8k",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tcl-s551g",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/technics-eah-az100",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tineco-pure-one-s11",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tp-link-archer-be550",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tp-link-deco-be63",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tp-link-deco-xe5300-xe75",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/tuft-and-needle-mint",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/typhur-sync-oven",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/valerion-visionmaster-max",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/vitamix-explorian-e310",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/vitamix-propel-510",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/waykar-pd160b",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/windscribe",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/wyze-cordless-vacuum-s",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/wyze-robot-vacuum",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/xgimi-horizon-20-max",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  },
+  {
+    "path": "/reviews/xgimi-horizon-20",
+    "verificationStatus": "editorial-only",
+    "requiresBeforeShopping": [
+      "product identity",
+      "retailer listing",
+      "price context",
+      "stock wording",
+      "affiliate rules",
+      "image rights",
+      "search presentation"
+    ],
+    "notes": "Standalone product note; not a final shopping page unless verified."
+  }
+]
