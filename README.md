@@ -2,7 +2,7 @@
 
 Public Better Buy Lab resource hub for buying guides, product research, category maps, verification policy, and buyer-fit checklists.
 
-**Website:** [official Better Buy Lab website](https://www.betterbuylab.com)
+**Website:** [official Better Buy Lab website](https://www.betterbuylab.com/)
 
 > Better Buy Lab is a product research and buying-guide publisher—not a retailer, price tracker, deal feed, warranty provider, manufacturer, or first-party test lab unless a specific page supports that claim. Product details, listings, and availability change; verify on retailer sites.
 
